@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>List of Wikipedia mobile applications - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"50a8e226-cfb6-417b-b1af-af16062295fc","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_Wikipedia_mobile_applications","wgTitle":"List of Wikipedia mobile applications","wgCurRevisionId":1086532115,"wgRevisionId":1086532115,"wgArticleId":32125167,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: url-status","Use dmy dates from October 2021","Articles with short description","Short description is different from Wikidata","Wikipedia pages semi-protected against vandalism","Pages using Infobox software with unknown parameters",
+"Articles containing Spanish-language text","Free and open-source Android software","IOS software","Lists about Wikipedia","Mobile software distribution platforms","Universal Windows Platform apps","Windows Phone","Lists of mobile apps"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"List_of_Wikipedia_mobile_applications","wgRelevantArticleId":32125167,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English",
+"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q27050496","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.39.0-wmf.19"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/Wikipedia_iOS_app.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="2597"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/Wikipedia_iOS_app.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="1731"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="1385"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="List of Wikipedia mobile applications - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_Wikipedia_mobile_applications"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-List_of_Wikipedia_mobile_applications rootpage-List_of_Wikipedia_mobile_applications skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-pp-default" class="mw-indicator"><div class="mw-parser-output"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected until May 12, 2024 at 12:24 UTC, due to vandalism"><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading">List of Wikipedia mobile applications</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vevent"><caption class="infobox-title summary">Wikipedia</caption><tbody><tr><td colspan="2" class="infobox-image logo"><a href="/wiki/File:Wikipedia_mobile_app_logo.png" class="image"><img alt="Wikipedia mobile app logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikipedia_mobile_app_logo.png/64px-Wikipedia_mobile_app_logo.png" decoding="async" width="64" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikipedia_mobile_app_logo.png/96px-Wikipedia_mobile_app_logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikipedia_mobile_app_logo.png/128px-Wikipedia_mobile_app_logo.png 2x" data-file-width="245" data-file-height="243" /></a></td></tr><tr><td colspan="2" class="infobox-image logo"><div class="mw-collapsible mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:left;;background:gainsboro;text-align:center">Screenshot</div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;text-align:center">
+<a href="/wiki/File:Wikipedia_iOS_app.png" class="image"><img alt="Wikipedia iOS app.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Wikipedia_iOS_app.png/300px-Wikipedia_iOS_app.png" decoding="async" width="300" height="649" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Wikipedia_iOS_app.png/450px-Wikipedia_iOS_app.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4d/Wikipedia_iOS_app.png 2x" data-file-width="500" data-file-height="1082" /></a><div class="infobox-caption">Official Wikipedia app for <a href="/wiki/IOS" title="IOS">iOS</a></div></div></div></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/Programmer" title="Programmer">Developer(s)</a></th><td class="infobox-data"><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Repository</a></th><td class="infobox-data"><div class="plainlist"><ul><li><a rel="nofollow" class="external text" href="https://github.com/wikimedia/apps-android-wikipedia">Android</a></li><li><a rel="nofollow" class="external text" href="https://github.com/wikimedia/wikipedia-ios">iOS</a></li></ul></div></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;">Website</th><td class="infobox-data"><span class="url"><a class="external text" href="https://doc.wikimedia.org/#apps">doc.wikimedia.org</a></span></td></tr></tbody></table>
+<p>A number of organizations within the <a href="/wiki/Wikimedia_movement" title="Wikimedia movement">Wikimedia movement</a> including the <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a> publish official <a href="/wiki/Mobile_app" title="Mobile app">mobile apps</a> for using <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> on <a href="/wiki/Mobile_device" title="Mobile device">mobile device</a> <a href="/wiki/Operating_system" title="Operating system">operating systems</a>. All are available for free via the appropriate <a href="/wiki/App_store" title="App store">app store</a> (e.g. <a href="/wiki/Google_Play" title="Google Play">Google Play</a>, <a href="/wiki/App_Store_(iOS)" class="mw-redirect" title="App Store (iOS)">App Store</a>, <a href="/wiki/Microsoft_Store" title="Microsoft Store">Microsoft Store</a>, <a href="/wiki/F-droid" class="mw-redirect" title="F-droid">F-droid</a>). They can also be downloaded independently of any third party store, from the Wikimedia Foundation's releases website, which also keeps old and <a href="/wiki/Beta_(software)" class="mw-redirect" title="Beta (software)">beta versions</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Independent developers have also released many unofficial apps for reading Wikipedia articles. Some apps load content from the Wikipedia site and process it; other apps use the <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> <a href="/wiki/Application_programming_interface" class="mw-redirect" title="Application programming interface">API</a>. Some only display Wikipedia content, usually omitting some features such as categories and talk pages. Some allow editing.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Official_apps"><span class="tocnumber">1</span> <span class="toctext">Official apps</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Wikimedia_Foundation"><span class="tocnumber">1.1</span> <span class="toctext">Wikimedia Foundation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Android"><span class="tocnumber">1.1.1</span> <span class="toctext">Android</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#iOS"><span class="tocnumber">1.1.2</span> <span class="toctext">iOS</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Windows"><span class="tocnumber">1.1.3</span> <span class="toctext">Windows</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Kiwix"><span class="tocnumber">1.2</span> <span class="toctext">Kiwix</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Unassociated_apps"><span class="tocnumber">2</span> <span class="toctext">Unassociated apps</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Related_apps"><span class="tocnumber">3</span> <span class="toctext">Related apps</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Official_apps">Official apps</span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main page: <a href="/wiki/Help:Mobile_access" title="Help:Mobile access">Help:Mobile access</a></div>
+<h3><span class="mw-headline" id="Wikimedia_Foundation">Wikimedia Foundation</span></h3>
+<p>Wikipedia apps from the Wikimedia Foundation are called "Wikipedia".
+</p>
+<h4><span class="mw-headline" id="Android">Android</span></h4>
+<dl><dd>The <a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a> app allows editing articles directly from the app. It is also available on <a href="/wiki/Aptoide" title="Aptoide">Aptoide</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> <a href="/wiki/Cafe_Bazaar" title="Cafe Bazaar">Cafe Bazaar</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> <a href="/wiki/F-Droid" title="F-Droid">F-Droid</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> and <a href="/wiki/GetJar" title="GetJar">GetJar</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></dd></dl>
+<h4><span class="mw-headline" id="iOS">iOS</span></h4>
+<dl><dd>The <a href="/wiki/IOS" title="IOS">iOS</a> app also provides a read and write version of Wikipedia,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> similar to the <a href="/wiki/Help:Mobile_access" title="Help:Mobile access">mobile web version</a>. It allows users to share an article via Facebook and other social websites. It also allows users to find <a href="/wiki/Geotagging" title="Geotagging">geotagged</a> articles near their current location. It does not allow users to see categories or see the normal desktop version.</dd></dl>
+<h4><span class="mw-headline" id="Windows">Windows</span></h4>
+<dl><dd>The <a href="/wiki/Metro-style_app" class="mw-redirect" title="Metro-style app">Metro-style app</a> provides a read-only version of Wikipedia, similar to the mobile web version. The app when used in <a href="/wiki/Windows_RT" title="Windows RT">Windows RT</a> is incapable of showing <a href="/wiki/GIF" title="GIF">moving pictures</a>.</dd></dl>
+<h3><span class="mw-headline" id="Kiwix">Kiwix</span></h3>
+<p>Kiwix has developed a number of offline apps based on Wikipedia content.
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Title
+</th>
+<th class="unsortable">Description
+</th>
+<th><a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a>
+</th>
+<th><a href="/wiki/IOS" title="IOS">iOS</a>
+</th>
+<th><a href="/wiki/Windows_10" title="Windows 10">Windows</a>
+</th>
+<th>Other OS
+</th>
+<th>Languages of content files by Kiwix
+</th>
+<th>Website
+</th>
+<th>Price
+</th>
+<th><a href="/wiki/Open-source_software" title="Open-source software">Open source</a>
+</th></tr>
+<tr>
+<td><b><a href="/wiki/Kiwix" title="Kiwix">Kiwix</a></b></td>
+<td>Free program to download a whole Wikimedia project and read offline.</td>
+<td><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile">yes</a></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/kiwix/id997079563">yes</a></td>
+<td><a rel="nofollow" class="external text" href="https://www.microsoft.com/store/apps/9P8SLZ4J979J">Windows 10 UWP</a>;<br /><a rel="nofollow" class="external text" href="http://www.kiwix.org/downloads/">Older Windows (x86)</a></td>
+<td><a rel="nofollow" class="external text" href="http://www.kiwix.org/downloads/">Linux</a>,<br /><a rel="nofollow" class="external text" href="https://f-droid.org/packages/org.kiwix.kiwixmobile/">F-Droid</a><br /><small><a rel="nofollow" class="external text" href="https://addons.mozilla.org/fr/firefox/addon/kiwix-offline/">Firefox Add-on</a>, <a rel="nofollow" class="external text" href="https://chrome.google.com/webstore/detail/kiwix/donaljnlmapmngakoipdmehbfcioahhk">Chrome Extension</a>,<br /><a href="/wiki/S60_(software_platform)" title="S60 (software platform)">S60</a> 3rd <a href="/wiki/S60_(software_platform)#Editions" title="S60 (software platform)">edition</a>, feature pack 1 or later can show ZIM files via <a rel="nofollow" class="external text" href="https://cip.github.io/WikiOnBoard/">WikiOnBoard</a></small></td>
+<td><a rel="nofollow" class="external text" href="http://wiki.kiwix.org/wiki/Content_in_all_languages">286</a><br /><small>(<a rel="nofollow" class="external text" href="https://download.kiwix.org/zim/wikipedia/">wikipedia</a>, <a rel="nofollow" class="external text" href="https://download.kiwix.org/zim/wikivoyage/">wikivoyage</a>, <a rel="nofollow" class="external text" href="https://download.kiwix.org/zim/wiktionary/">wiktionary</a>, <a rel="nofollow" class="external text" href="https://download.kiwix.org/zim/wikiversity/">wikiversity</a>, <a rel="nofollow" class="external text" href="https://download.kiwix.org/zim/wikibooks/">wikibooks</a>, <a rel="nofollow" class="external text" href="https://download.kiwix.org/zim/wikisource/">wikisource</a>, <a rel="nofollow" class="external text" href="https://download.kiwix.org/zim/wikiquote/">wikiquote</a>, <a rel="nofollow" class="external text" href="https://download.kiwix.org/zim/wikinews/">wikinews</a>, <a rel="nofollow" class="external text" href="https://download.kiwix.org/zim/wikispecies/">wikispecies</a>)</small></td>
+<td><a rel="nofollow" class="external text" href="http://www.kiwix.org/">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td style="background:#9EFF9E;vertical-align:middle;text-align:center;" class="table-yes">Yes
+</td></tr>
+<tr>
+<td><b>Medical Wikipedia (Offline)</b></td>
+<td>Wikipedia's Offline Medical Encyclopedia. Based on <a href="/wiki/Kiwix" title="Kiwix">Kiwix</a> and developed in collaboration with <a href="/wiki/Wiki_Project_Med_Foundation" class="mw-redirect" title="Wiki Project Med Foundation">Wiki Project Med Foundation</a>.</td>
+<td><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.kiwix.kiwixcustomwikimedar">AR</a>, <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.kiwix.kiwixcustomwikimedde">DE</a>, <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.kiwix.kiwixcustomwikimed">EN</a>, <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.kiwix.kiwixcustomwikimedes">ES</a>, <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.kiwix.kiwixcustomwikimedfa">FA</a>, <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.kiwix.kiwixcustomwikimedfr">FR</a>, <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.kiwix.kiwixcustomwikimedja">JA</a>, <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.kiwix.kiwixcustomwikimedor">OR</a>, <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.kiwix.kiwixcustomwikimedpt">PT</a>, <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.kiwix.kiwixcustomwikimedzh">ZH</a></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/wikimed/id1281693200?mt=8">EN</a></td>
+<td><a rel="nofollow" class="external text" href="https://www.microsoft.com/store/apps/9PHJSNP1CZ8J">WikiMed UWP EN</a>;<br /><a rel="nofollow" class="external text" href="https://www.microsoft.com/store/apps/9P8SLZ4J979J">Kiwix JS + in-app download of any WikiMed language</a></td>
+<td><small>only as content file (<a href="/wiki/ZIM_(file_format)" title="ZIM (file format)">ZIM</a>) in Kiwix or WikiOnBoard</small></td>
+<td><a rel="nofollow" class="external text" href="http://download.kiwix.org/zim/wikipedia/">AR, AS, BN, BPY, DE, EN, ES, FA, FR, GU, HI, IT, JA, KN, LO, ML, MR, OR, PA, PT, TA, TE, UR, ZH</a></td>
+<td><a rel="nofollow" class="external text" href="https://www.kiwix.org/en/downloads/kiwix-custom-apps/">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td style="background:#9EFF9E;vertical-align:middle;text-align:center;" class="table-yes">Yes
+</td></tr>
+<tr>
+<td><b><a href="/wiki/Wikivoyage" title="Wikivoyage">Wikivoyage</a></b></td>
+<td>Wikivoyage's Offline. Based on <a href="/wiki/Kiwix" title="Kiwix">Kiwix</a> and providing a world mobile offline travel guide. A <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.kiwix.kiwixcustomwikivoyageeurope">version for Europe</a> also exists.</td>
+<td><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=org.kiwix.kiwixcustomwikivoyage">EN</a></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/de/app/wikivoyage-deutsch-offline/id654441997?mt=8">DE</a></td>
+<td><a rel="nofollow" class="external text" href="https://www.microsoft.com/store/apps/9N5SB90Q4JBJ">Wikivoyage UWP EN</a>;<br /><a rel="nofollow" class="external text" href="https://www.microsoft.com/store/apps/9P8SLZ4J979J">Kiwix JS + in-app download of any Wikivoyage language</a></td>
+<td><small>only as content file (ZIM) in Kiwix or WikiOnBoard</small></td>
+<td><a rel="nofollow" class="external text" href="http://download.kiwix.org/zim/wikivoyage/">DE, EL, EN, ES, FA, FI, FR, HE, IT, NL, PL, PT, RO, RU, SV, UK, VI, ZH</a></td>
+<td><a href="https://en.wikivoyage.org/wiki/en:Wikivoyage:Offline_Expedition" class="extiw" title="voy:en:Wikivoyage:Offline Expedition">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td style="background:#9EFF9E;vertical-align:middle;text-align:center;" class="table-yes">Yes
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Unassociated_apps">Unassociated apps</span></h2>
+<p>These apps were mainly developed to display articles and are often used on platforms for which an official Wikipedia app was not formerly available, such as <a href="/wiki/Windows_Phone" title="Windows Phone">Windows Phone</a>. Typical features include searching for articles, <a href="/wiki/Bookmark_(World_Wide_Web)" class="mw-redirect" title="Bookmark (World Wide Web)">bookmarks</a>, sharing, or enlarging <a href="/wiki/Image" title="Image">images</a>.
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Title
+</th>
+<th class="unsortable">Description
+</th>
+<th><a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a>
+</th>
+<th><a href="/wiki/IOS" title="IOS">iOS</a>
+</th>
+<th><a href="/wiki/Microsoft_Store" title="Microsoft Store">Microsoft Store</a>
+</th>
+<th>Website /<br />Other OS
+</th>
+<th>Price (in <a href="/wiki/USD" class="mw-redirect" title="USD">US$</a>)
+</th>
+<th><a href="/wiki/Open_source_software" class="mw-redirect" title="Open source software">Open source</a>
+</th></tr>
+<tr>
+<td>Aard 2</td>
+<td>A <a href="/wiki/GPL" class="mw-redirect" title="GPL">free</a> offline dictionary and offline Wikipedia reader for Android and Desktop/Web.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></td>
+<td><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=itkach.aard2">yes</a></td>
+<td></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="http://aarddict.org/">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td style="background:#9EFF9E;vertical-align:middle;text-align:center;" class="table-yes">Yes
+</td></tr>
+<tr>
+<td>Articles</td>
+<td>By Sophiestication Software. — Wikipedia reader for iPad, iPad mini, iPhone and iPod touch.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/articles/id364881979">yes</a></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="http://sophiestication.com">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td>Bing Wikipedia Browser</td>
+<td>Bing Wikipedia Browser by Microsoft combines the content from Wikipedia with enhanced search, browse, and content recommendations based on the Bing Knowledge repository.</td>
+<td></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://www.microsoft.com/en-us/store/p/bing-wikipedia-browser/9wzdncrfj3r5?ocid=9wzdncrfj3r5_ORSEARCH_Bing&amp;rtc=1">yes</a></td>
+<td><a rel="nofollow" class="external text" href="https://web.archive.org/web/20181116062022/https://quizking.org/">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td>Duovocal
+</td>
+<td>An app that applies Wikipedia and Wiktionary resources to language learning.
+</td>
+<td><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.duovocal">yes</a>
+</td>
+<td><a rel="nofollow" class="external text" href="https://apps.apple.com/us/app/duovocal-learn-german/id1548499329">yes</a>
+</td>
+<td>
+</td>
+<td><a rel="nofollow" class="external text" href="https://duovocal.com/">Website</a>
+</td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free
+</td>
+<td>
+</td></tr>
+<tr>
+<td>EdgeWiki</td>
+<td>A web app of wikipedia.org with a screen reader. Works on Windows 10, Windows 10 Mobile, and the Surface Hub.</td>
+<td></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://www.microsoft.com/store/productId/9NBLGGH42KCS">yes</a></td>
+<td></td>
+<td>$0.99</td>
+<td>
+</td></tr>
+<tr>
+<td>GeoSearch for Wikipedia</td>
+<td>By Yunhe Shi — Search and view geotagged Wikipedia articles from a visible map region.</td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/geosearch-for-wikipedia/id929984054">yes</a></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="http://www.shiyunhe.com/geosearch-for-wikipedia">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td>Inquire by Tamper</td>
+<td>A context-aware Wikipedia reader that brings you the most interesting and relevant articles based on your location.</td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/inquire-by-tamper/id1045268097">yes</a> <br /><small>(&amp; <a href="/wiki/Apple_Watch" title="Apple Watch">Apple Watch</a>)</small></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://tamper.io/inquire/">Website</a></td>
+<td>$0.99</td>
+<td>
+</td></tr>
+<tr>
+<td>Know Everything</td>
+<td>Search by voice; for Pebble Watch.</td>
+<td></td>
+<td></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180626001512/https://apps.getpebble.com/en_US/application/560c32454bf0ac0115000095">Pebble</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td style="background:#9EFF9E;vertical-align:middle;text-align:center;" class="table-yes">Yes
+</td></tr>
+<tr>
+<td>LearnDiscovery</td>
+<td>By XDiscovery. — Displays and saves <a href="/wiki/Mindmap" class="mw-redirect" title="Mindmap">mindmaps</a> of Wikipedia. Correlations between topics are organized to make sense of new information by visualizing the context about a topic. <a href="/wiki/Bookmark_(World_Wide_Web)" class="mw-redirect" title="Bookmark (World Wide Web)">Bookmarks</a> mindmaps instead of articles, and shares them as visual references.</td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/learn-discovery-mindmap-wikipedia/id859954749">yes</a></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="http://learn.xdiscovery.com/">Website</a></td>
+<td>$5.99</td>
+<td>
+</td></tr>
+<tr>
+<td>LoboWiki Reader for Wikipedia</td>
+<td>All the links clicked are added to the reading queue, instead of being immediately opened to allow users to read articles in a distraction-free manner.</td>
+<td><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=info.galu.dev.lobowiki">yes</a></td>
+<td></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="http://dev.galu.info/lobowiki.html">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td>Minipedia Offline Wikipedia</td>
+<td>By Minipedia. — Access Wikipedia articles using iPod, iPhone or iPad without a network connection.</td>
+<td><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=mobi.minipedia.mp.android.app">yes</a></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/app/id473512078">yes</a></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="http://minipedia.mobi/">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td>MiniWiki</td>
+<td>Browse Wikipedia on an Apple Watch, see articles for nearby locations, and download articles for offline reading.</td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://apps.apple.com/us/app/miniwiki/id1448143759#?platform=appleWatch">yes</a></td>
+<td></td>
+<td></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td>Mnemo's Library
+</td>
+<td>An app that allows users to create, share, and review Wikipedia information and associated mnemonics/memory aids.
+</td>
+<td>yes
+</td>
+<td>yes
+</td>
+<td>yes
+</td>
+<td><a rel="nofollow" class="external text" href="https://mnemolibrary.com">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td style="background:#9EFF9E;vertical-align:middle;text-align:center;" class="table-yes">Yes
+</td></tr>
+<tr>
+<td>motî
+</td>
+<td>Offline and multi-lingual dictionary app for language learners, taking data from the English Wiktionary.
+</td>
+<td>
+</td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/id1046122820">yes</a>
+</td>
+<td>
+</td>
+<td><a rel="nofollow" class="external text" href="https://xn--mot-xma.net/">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td>onePedia</td>
+<td>A Wikipedia client which allows the viewing and editing of articles on Windows 10, Windows 10 Mobile, and the Surface Hub.</td>
+<td></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://www.microsoft.com/store/productId/9NBLGGH4P098">yes</a></td>
+<td></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td>V for Wikipedia</td>
+<td>By Raureif GmbH. — Wikipedia app for iPhone, iPad, and Apple Watch.</td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/app/viki-wikipedia/id993435362">yes</a></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://v-for-wiki.com/">Website</a></td>
+<td>$4.99</td>
+<td>
+</td></tr>
+<tr>
+<td>WikiBOT</td>
+<td>Continuous learning chatbot capable to provide answers to a wide range of questions as world capitals, real time weather info and more.</td>
+<td></td>
+<td></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180626001614/https://wikibot.info/">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td>WikiCompass
+</td>
+<td>WikiCompass gets nearby Wikipedia articles and lets you view them in augmented reality.
+</td>
+<td>
+</td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/app/wikicompass/id1363789167">yes</a>
+</td>
+<td>
+</td>
+<td></td>
+<td>$0.99
+</td>
+<td>
+</td></tr>
+<tr>
+<td>WikiFlip</td>
+<td>An app that turns Wikipedia images into a quiz game. Flip a picture and take a trivia quiz question from <a href="/wiki/World_of_Knowledge" title="World of Knowledge">World of Knowledge</a>, the ecosystem of multiple choice questions.</td>
+<td><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.wok.wikiflip">yes</a></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/eg/app/wikiflip/id1156078290?mt=8">yes</a></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://wikiflip.net/">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td>Wiki here</td>
+<td>Shows nearby places from Wikipedia coordinate data on Windows 10, Windows 10 Mobile, and the Surface Hub.</td>
+<td></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://www.microsoft.com/store/productId/9NBLGGH4P098">yes</a></td>
+<td></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td>WikiMaster</td>
+<td>A game app that has over 330,000 multiple choice questions on top of Wikipedia articles.</td>
+<td><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.wok.wiki">yes</a></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/eg/app/wikimaster/id1062887157?mt=8">yes</a></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://www.wikimaster.com/">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/WikiNodes" title="WikiNodes">WikiNodes</a></td>
+<td>By <a href="/wiki/Institute_for_Dynamic_Educational_Advancement" title="Institute for Dynamic Educational Advancement">Institute for Dynamic Educational Advancement</a> (IDEA).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/wikinodes/id433834594">yes</a></td>
+<td></td>
+<td></td>
+<td>$1.99</td>
+<td>
+</td></tr>
+<tr>
+<td>Wikipanion</td>
+<td>By Robert Chin — Easy, search, navigation and display of Wikipedia entries. Streamline your browsing with history grouped by visit date, and bookmarking for individual entries and sections within an entry.</td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/en/app/wikipanion/id288349436">yes</a></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="http://www.wikipanion.com/">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td>Wikipedia Nearby</td>
+<td>Articles near current location; for Pebble Watch.</td>
+<td></td>
+<td></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180626001536/https://apps.getpebble.com/en_US/application/5597b314b8e7d1d93200001d">Pebble</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td style="background:#9EFF9E;vertical-align:middle;text-align:center;" class="table-yes">Yes
+</td></tr>
+<tr>
+<td>Wikipebble</td>
+<td>Search by voice or keyboard; for Pebble Watch.</td>
+<td></td>
+<td></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180626001441/https://apps.getpebble.com/en_US/application/57a207735985e1543c00000e">Pebble</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wikiwand" title="Wikiwand">Wikiwand</a></td>
+<td>Made to allow easier navigation and search than the website or the site's own app.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></td>
+<td>Currently invitation only<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/app/wikiwand-faster-wikipedia-reader/id947444965">yes</a></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="http://www.wikiwand.com/">Website</a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td>
+</td></tr>
+<tr>
+<td>Wikiweb</td>
+<td>Wikiweb is a Wikipedia reader for iPhone and iPad that visualizes the connections between articles.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/wikiweb-visual-wikipedia-reader/id499345601">yes</a></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="http://www.wikiwebapp.com/">Website</a></td>
+<td>$4.99</td>
+<td>
+</td></tr>
+<tr>
+<td>Wikiyarn
+</td>
+<td>Wikiyarn is a Wikipedia explorer and reader with distinguishing features like related article recommendations, article comparison, category based search etc. <sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</td>
+<td><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=work.techlabs.qwikipedia">yes</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a rel="nofollow" class="external text" href="https://www.wikiyarn.com">Website</a>
+</td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Zimpedia</td>
+<td>Offline reader for Wikipedia and other Wiki projects stored in a <a href="/wiki/ZIM_(file_format)" title="ZIM (file format)">ZIM</a> format.</td>
+<td></td>
+<td></td>
+<td></td>
+<td><a rel="nofollow" class="external text" href="https://openrepos.net/content/mkiol/zimpedia">Sailfish OS</a> <a rel="nofollow" class="external text" href="https://appworld.blackberry.com/webstore/content/59988411">BlackBerry 10 </a></td>
+<td style="background: #DFF; vertical-align: middle; text-align: center;" class="free table-free">Free</td>
+<td style="background:#9EFF9E;vertical-align:middle;text-align:center;" class="table-yes">Yes
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Related_apps">Related apps</span></h2>
+<p>A number of apps for Wikipedia's sister projects exist. These include the <a href="/wiki/Wiki_Loves_Monuments" title="Wiki Loves Monuments">Wiki Loves Monuments</a> 	<a href="https://www.mediawiki.org/wiki/Wiki_Loves_Monuments_mobile_application" class="extiw" title="mw:Wiki Loves Monuments mobile application">app</a>, written for a 2012 photo contest, as an aid for Wikiphotographers. It shows a map of nearby national <a href="/wiki/Heritage_register" class="mw-redirect" title="Heritage register">heritage register</a> items, indicating whether Wikipedia had a photo for the site, and enabling quick and easy photo uploads for camera phones. It is not integrated with the official article display app.
+</p><p>There is <a href="https://commons.wikimedia.org/wiki/Commons:Mobile_app" class="extiw" title="commons:Commons:Mobile app">an Android app</a> for <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> which is <a rel="nofollow" class="external text" href="https://github.com/commons-app/apps-android-commons">community maintained</a>, and described on the Commons <a href="https://commons.wikimedia.org/wiki/Commons:Mobile_app" class="extiw" title="commons:Commons:Mobile app">mobile app</a> page. There is also an Android app for <a href="/wiki/Wiktionary" title="Wiktionary">Wiktionary</a>, although it is no longer supported and has not been updated since August 2013.
+</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a class="external text" href="https://releases.wikimedia.org/mobile">"Index of /mobile"</a>. <i>releases.wikimedia.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 June</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=releases.wikimedia.org&amp;rft.atitle=Index+of+%2Fmobile&amp;rft_id=http%3A%2F%2Freleases.wikimedia.org%2Fmobile&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://wikipedia.en.aptoide.com/app">package in Aptoide</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://cafebazaar.ir/app/org.wikipedia?l=en">package in Cafe Bazaar</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://f-droid.org/packages/org.wikipedia/">package in F-Droid</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.getjar.com/categories/entertainment-apps/more/Wikipedia-Pro-735624">package in Getjar</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.smartcompany.com.au/information-technology/20110617-iphone-app-of-the-week-wikipedia-mobile.html">"iPhone App of the Week: Wikipedia Mobile"</a>. Smartcompany.com.au. 17 June 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">8 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=iPhone+App+of+the+Week%3A+Wikipedia+Mobile&amp;rft.pub=Smartcompany.com.au&amp;rft.date=2011-06-17&amp;rft_id=http%3A%2F%2Fwww.smartcompany.com.au%2Finformation-technology%2F20110617-iphone-app-of-the-week-wikipedia-mobile.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://aarddict.org">"Desktop — Aard Dictionary"</a>. Aarddict.org. 26 February 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">8 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Desktop+%E2%80%94+Aard+Dictionary&amp;rft.pub=Aarddict.org&amp;rft.date=2012-02-26&amp;rft_id=http%3A%2F%2Faarddict.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFMike_Schramm2010" class="citation web cs1">Mike Schramm (9 June 2010). <a rel="nofollow" class="external text" href="http://www.tuaw.com/2010/06/09/apple-design-awards-go-to-popular-iphone-and-ipad-apps/">"Apple Design Awards go to popular iPhone and iPad apps"</a>. TUAW<span class="reference-accessdate">. Retrieved <span class="nowrap">12 August</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Apple+Design+Awards+go+to+popular+iPhone+and+iPad+apps&amp;rft.pub=TUAW&amp;rft.date=2010-06-09&amp;rft.au=Mike+Schramm&amp;rft_id=http%3A%2F%2Fwww.tuaw.com%2F2010%2F06%2F09%2Fapple-design-awards-go-to-popular-iphone-and-ipad-apps%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.148apps.com/news/wikinodes-brings-perspective-knowledge/">"WikiNodes Brings A New Perspective To Knowledge&#160;» 148Apps&#160;» iPhone and iPod Touch Application Reviews and News"</a>. 148Apps. 10 May 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">8 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=WikiNodes+Brings+A+New+Perspective+To+Knowledge+%C2%BB+148Apps+%C2%BB+iPhone+and+iPod+Touch+Application+Reviews+and+News&amp;rft.pub=148Apps&amp;rft.date=2011-05-10&amp;rft_id=http%3A%2F%2Fwww.148apps.com%2Fnews%2Fwikinodes-brings-perspective-knowledge%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121013124347/http://ipadinsight.com/ipad-app-reviews/wikinodes-for-ipad-making-wikipedia-fun-to-explore/">"WikiNodes for iPad – Making Wikipedia Fun to Explore — iPad Insight"</a>. Ipadinsight.com. 12 May 2011. Archived from <a rel="nofollow" class="external text" href="http://ipadinsight.com/ipad-app-reviews/wikinodes-for-ipad-making-wikipedia-fun-to-explore">the original</a> on 13 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">8 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=WikiNodes+for+iPad+%E2%80%93+Making+Wikipedia+Fun+to+Explore+%E2%80%94+iPad+Insight&amp;rft.pub=Ipadinsight.com&amp;rft.date=2011-05-12&amp;rft_id=http%3A%2F%2Fipadinsight.com%2Fipad-app-reviews%2Fwikinodes-for-ipad-making-wikipedia-fun-to-explore&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://ipad.appfinders.com/wikinodes-for-ipad/">"WikiNodes for iPad"</a>. iPad App Finders. 23 May 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">8 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=WikiNodes+for+iPad&amp;rft.pub=iPad+App+Finders&amp;rft.date=2011-05-23&amp;rft_id=http%3A%2F%2Fipad.appfinders.com%2Fwikinodes-for-ipad%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFBell2015" class="citation news cs1">Bell, Karissa (8 March 2015). <a rel="nofollow" class="external text" href="http://mashable.com/2015/03/07/5-cant-miss-apps-imgur/">"5 can't-miss apps: 'Zenith Space Adventure,' StubHub Music and more"</a>. <i>Mashable</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mashable&amp;rft.atitle=5+can%27t-miss+apps%3A+%27Zenith+Space+Adventure%2C%27+StubHub+Music+and+more&amp;rft.date=2015-03-08&amp;rft.aulast=Bell&amp;rft.aufirst=Karissa&amp;rft_id=http%3A%2F%2Fmashable.com%2F2015%2F03%2F07%2F5-cant-miss-apps-imgur%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFSawers2014" class="citation web cs1">Sawers, Paul (19 August 2014). <a rel="nofollow" class="external text" href="https://thenextweb.com/apps/2014/08/19/wikiwand-makes-wikipedia-beautiful/">"WikiWand makes Wikipedia beautiful"</a>. The Next Web.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=WikiWand+makes+Wikipedia+beautiful&amp;rft.pub=The+Next+Web&amp;rft.date=2014-08-19&amp;rft.aulast=Sawers&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fthenextweb.com%2Fapps%2F2014%2F08%2F19%2Fwikiwand-makes-wikipedia-beautiful%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFSawers2015" class="citation web cs1">Sawers, Paul (5 March 2015). <a rel="nofollow" class="external text" href="https://venturebeat.com/2015/03/05/wikiwand-arrives-on-iphone-to-help-make-wikipedia-beautiful/">"Wikiwand arrives on iPhone to help make Wikipedia beautiful"</a>. VentureBeat<span class="reference-accessdate">. Retrieved <span class="nowrap">20 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wikiwand+arrives+on+iPhone+to+help+make+Wikipedia+beautiful&amp;rft.pub=VentureBeat&amp;rft.date=2015-03-05&amp;rft.aulast=Sawers&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fventurebeat.com%2F2015%2F03%2F05%2Fwikiwand-arrives-on-iphone-to-help-make-wikipedia-beautiful%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.pcmag.com/article/351839/the-best-tools-to-improve-your-wikipedia-experience">"The Best Tools to Improve Your Wikipedia Experience"</a>. <i>PC Magazine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PC+Magazine&amp;rft.atitle=The+Best+Tools+to+Improve+Your+Wikipedia+Experience&amp;rft_id=https%3A%2F%2Fwww.pcmag.com%2Farticle%2F351839%2Fthe-best-tools-to-improve-your-wikipedia-experience&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFSawers2012" class="citation web cs1">Sawers, Paul (14 July 2012). <a rel="nofollow" class="external text" href="https://thenextweb.com/apps/2012/07/14/wikiweb-a-beautiful-ios-wikipedia-app-that-lets-you-visualize-connections-between-articles/">"Wikiweb: A beautiful iOS Wikipedia app that lets you visualize connections between articles"</a>. The Next Web<span class="reference-accessdate">. Retrieved <span class="nowrap">20 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wikiweb%3A+A+beautiful+iOS+Wikipedia+app+that+lets+you+visualize+connections+between+articles&amp;rft.pub=The+Next+Web&amp;rft.date=2012-07-14&amp;rft.aulast=Sawers&amp;rft.aufirst=Paul&amp;rft_id=https%3A%2F%2Fthenextweb.com%2Fapps%2F2012%2F07%2F14%2Fwikiweb-a-beautiful-ios-wikipedia-app-that-lets-you-visualize-connections-between-articles%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFRubio2012" class="citation web cs1">Rubio, Justin (18 July 2012). <a rel="nofollow" class="external text" href="https://www.theverge.com/2012/7/18/3167757/wikiweb-ios-app-wikipedia">"Wikiweb app makes wasting time on Wikipedia even easier"</a>. The Verge<span class="reference-accessdate">. Retrieved <span class="nowrap">20 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wikiweb+app+makes+wasting+time+on+Wikipedia+even+easier&amp;rft.pub=The+Verge&amp;rft.date=2012-07-18&amp;rft.aulast=Rubio&amp;rft.aufirst=Justin&amp;rft_id=https%3A%2F%2Fwww.theverge.com%2F2012%2F7%2F18%2F3167757%2Fwikiweb-ios-app-wikipedia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.dbpedia.org/community/wikiyarn/">"WikiYarn – Knowledge at your fingertip - DBpedia Organization"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=WikiYarn+%E2%80%93+Knowledge+at+your+fingertip+-+DBpedia+Organization&amp;rft_id=https%3A%2F%2Fwww.dbpedia.org%2Fcommunity%2Fwikiyarn%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Wikipedia+mobile+applications" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}</code>:  CS1 maint: url-status (<a href="/wiki/Category:CS1_maint:_url-status" title="Category:CS1 maint: url-status">link</a>)</span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul><li><a href="https://www.mediawiki.org/wiki/Wikimedia_Apps" class="extiw" title="mw:Wikimedia Apps">Wikimedia Apps</a> - Project page for the official Wikipedia mobile apps on the <a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>'s <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> development website</li>
+<li><a href="https://www.mediawiki.org/wiki/Reading/Web/Mobile" class="extiw" title="mw:Reading/Web/Mobile">Wikimedia mobile web team</a> works on the mobile web experience, different from the mobile apps</li>
+<li><a class="external text" href="https://releases.wikimedia.org/mobile">Unsupported official builds of Wikimedia apps</a></li></ul>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Wikipedia" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Wikipedia" title="Template:Wikipedia"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Wikipedia" title="Template talk:Wikipedia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Wikipedia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Wikipedia" style="font-size:114%;margin:0 4em"><a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Outline_of_Wikipedia" title="Outline of Wikipedia">Overview<br />(outline)</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Censorship_of_Wikipedia" title="Censorship of Wikipedia">Censorship</a></li>
+<li><i><a href="/wiki/Citation_needed_(Wikipedia)" class="mw-redirect" title="Citation needed (Wikipedia)">Citation needed</a></i></li>
+<li><a href="/wiki/Conflict-of-interest_editing_on_Wikipedia" title="Conflict-of-interest editing on Wikipedia">Conflict-of-interest editing</a></li>
+<li><a href="/wiki/Criticism_of_Wikipedia" title="Criticism of Wikipedia">Criticism</a></li>
+<li>Biases
+<ul><li><a href="/wiki/Gender_bias_on_Wikipedia" title="Gender bias on Wikipedia">gender</a></li>
+<li><a href="/wiki/Geographical_bias_on_Wikipedia" title="Geographical bias on Wikipedia">geographical</a></li>
+<li><a href="/wiki/Ideological_bias_on_Wikipedia" title="Ideological bias on Wikipedia">ideological</a></li>
+<li><a href="/wiki/Racial_bias_on_Wikipedia" title="Racial bias on Wikipedia">racial</a></li></ul></li>
+<li><a href="/wiki/Deletion_of_articles_on_Wikipedia" title="Deletion of articles on Wikipedia">Deletion of articles</a>
+<ul><li><a href="/wiki/Deletionism_and_inclusionism_in_Wikipedia" title="Deletionism and inclusionism in Wikipedia">Deletionism and inclusionism</a></li>
+<li><a href="/wiki/Notability_in_the_English_Wikipedia" title="Notability in the English Wikipedia">Notability</a></li></ul></li>
+<li><a href="/wiki/Edit_count" title="Edit count">Edit count</a></li>
+<li><a href="/wiki/Wikipedia_and_fact-checking" title="Wikipedia and fact-checking">Fact-checking</a></li>
+<li>"<a href="/wiki/Ignore_all_rules" title="Ignore all rules">Ignore all rules</a>"</li>
+<li><a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a></li>
+<li><a href="/wiki/Predictions_of_the_end_of_Wikipedia" title="Predictions of the end of Wikipedia">Predictions of the project's end</a></li>
+<li><a href="/wiki/Reliability_of_Wikipedia" title="Reliability of Wikipedia">Reliability</a></li>
+<li><a href="/wiki/Vandalism_on_Wikipedia" title="Vandalism on Wikipedia">Vandalism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wikipedia_community" title="Wikipedia community">Community</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Wikipedia_administrators" title="Wikipedia administrators">Administrators</a></li>
+<li><a href="/wiki/AfroCrowd" title="AfroCrowd">AfroCrowd</a></li>
+<li><a href="/wiki/Arbitration_Committee" title="Arbitration Committee">Arbitration Committee</a></li>
+<li><a href="/wiki/Art%2BFeminism" title="Art+Feminism">Art+Feminism</a></li>
+<li><a href="/wiki/Wikipedia_bots" title="Wikipedia bots">Bots</a>
+<ul><li><a href="/wiki/Lsjbot" title="Lsjbot">Lsjbot</a></li></ul></li>
+<li><a href="/wiki/Edit-a-thon" title="Edit-a-thon">Edit-a-thon</a></li>
+<li><a href="/wiki/List_of_Wikipedias" title="List of Wikipedias">List of Wikipedias</a></li>
+<li><i><a href="/wiki/The_Signpost" title="The Signpost">The Signpost</a></i></li>
+<li><a href="/wiki/Wiki_Indaba" title="Wiki Indaba">Wiki Indaba</a></li>
+<li><a href="/wiki/Wiki_Loves_Monuments" title="Wiki Loves Monuments">Wiki Loves Monuments</a></li>
+<li><a href="/wiki/Wiki_Loves_Pride" title="Wiki Loves Pride">Wiki Loves Pride</a></li>
+<li><a href="/wiki/Wiki_Loves_Earth" title="Wiki Loves Earth">Wiki Loves Earth</a></li>
+<li><a href="/wiki/Wiki_Loves_Folklore" title="Wiki Loves Folklore">Wiki Loves Folklore</a></li>
+<li><a href="/wiki/Wiki_Conference_India" title="Wiki Conference India">WikiConference India</a></li>
+<li><a href="/wiki/WikiConference_North_America" title="WikiConference North America">WikiConference North America</a></li>
+<li><a href="/wiki/Wikimania" title="Wikimania">Wikimania</a></li>
+<li><a href="/wiki/Wikipedian_in_residence" title="Wikipedian in residence">Wikipedian in residence</a></li>
+<li><a href="/wiki/WikiProject" title="WikiProject">WikiProject</a></li>
+<li><a href="/wiki/Women_in_Red" title="Women in Red">Women in Red</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Wikipedia_people" title="List of Wikipedia people">People</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Florence_Devouard" title="Florence Devouard">Florence Devouard</a></li>
+<li><a href="/wiki/Sue_Gardner" title="Sue Gardner">Sue Gardner</a></li>
+<li><a href="/wiki/James_Heilman" title="James Heilman">James Heilman</a></li>
+<li><a href="/wiki/Maryana_Iskander" title="Maryana Iskander">Maryana Iskander</a></li>
+<li><a href="/wiki/Katherine_Maher" title="Katherine Maher">Katherine Maher</a></li>
+<li><a href="/wiki/Magnus_Manske" title="Magnus Manske">Magnus Manske</a></li>
+<li><a href="/wiki/Ira_Brad_Matetsky" title="Ira Brad Matetsky">Ira Brad Matetsky</a></li>
+<li><a href="/wiki/Erik_M%C3%B6ller" title="Erik Möller">Erik Möller</a></li>
+<li><a href="/wiki/Steven_Pruitt" title="Steven Pruitt">Steven Pruitt</a></li>
+<li><a href="/wiki/Larry_Sanger" title="Larry Sanger">Larry Sanger</a></li>
+<li><a href="/wiki/Mar%C3%ADa_Sefidari" title="María Sefidari">María Sefidari</a></li>
+<li><a href="/wiki/Lila_Tretikov" title="Lila Tretikov">Lila Tretikov</a></li>
+<li><a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a></li>
+<li><a href="/wiki/Wikipedia_community" title="Wikipedia community">Wikipedians</a></li>
+<li><a href="/wiki/Wikimedian_of_the_Year" title="Wikimedian of the Year">Wikimedian of the Year</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Wikipedia" title="History of Wikipedia">History</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Bomis" title="Bomis">Bomis</a></li>
+<li><a href="/wiki/First_Wikipedia_edit" title="First Wikipedia edit">First edit</a></li>
+<li><a href="/wiki/Wikipedia_logo" title="Wikipedia logo">Logo</a></li>
+<li><a href="/wiki/List_of_Wikipedia_controversies" title="List of Wikipedia controversies">Controversies</a>
+<ul><li><a href="/wiki/United_States_Congressional_staff_edits_to_Wikipedia" class="mw-redirect" title="United States Congressional staff edits to Wikipedia">U.S. Congressional staff edits</a></li>
+<li><a href="/wiki/Essjay_controversy" title="Essjay controversy">Essjay controversy</a></li>
+<li><a href="/wiki/Wikipedia_Seigenthaler_biography_incident" title="Wikipedia Seigenthaler biography incident">Seigenthaler biography incident</a></li>
+<li><a href="/wiki/Henryk_Batuta_hoax" title="Henryk Batuta hoax">Henryk Batuta hoax</a></li>
+<li><a href="/wiki/Jar%27Edo_Wens_hoax" title="Jar&#39;Edo Wens hoax">Jar'Edo Wens hoax</a></li>
+<li><a href="/wiki/Croatian_Wikipedia#Controversy_about_right-wing_bias" title="Croatian Wikipedia">Croatian Wikipedia administration</a></li></ul></li>
+<li><a href="/wiki/Internet_Watch_Foundation_and_Wikipedia" title="Internet Watch Foundation and Wikipedia">Internet Watch Foundation</a></li>
+<li><a href="/wiki/Church_of_Scientology_editing_on_Wikipedia" title="Church of Scientology editing on Wikipedia">Scientology</a></li>
+<li><a href="/wiki/Committee_for_Accuracy_in_Middle_East_Reporting_in_America#CAMERA_campaign_at_Wikipedia" title="Committee for Accuracy in Middle East Reporting in America">CAMERA campaign</a></li>
+<li><a href="/wiki/Italian_Wikipedia#2011_mass_blanking_protest" title="Italian Wikipedia">Italian Wikipedia blackout</a></li>
+<li><a href="/wiki/Protests_against_SOPA_and_PIPA#Wikimedia_community" title="Protests against SOPA and PIPA">English Wikipedia blackout</a></li>
+<li><a href="/wiki/Hillsborough_disaster_Wikipedia_posts" title="Hillsborough disaster Wikipedia posts">Hillsborough disaster Wikipedia posts</a></li>
+<li><a href="/wiki/MyWikiBiz" class="mw-redirect" title="MyWikiBiz">MyWikiBiz</a></li>
+<li><a href="/wiki/VisualEditor" title="VisualEditor">VisualEditor</a></li>
+<li><a href="/wiki/1Lib1Ref" title="1Lib1Ref">#1Lib1Ref</a></li>
+<li><a href="/wiki/Wikipedia_Star_Trek_Into_Darkness_controversy" title="Wikipedia Star Trek Into Darkness controversy"><i>Star Trek Into Darkness</i> discussion</a></li>
+<li><a href="/wiki/Wikipedia_coverage_of_American_politics" title="Wikipedia coverage of American politics">Coverage of American politics</a></li>
+<li><a href="/wiki/Wikipedia_coverage_of_the_COVID-19_pandemic" title="Wikipedia coverage of the COVID-19 pandemic">Coverage of the COVID-19 pandemic</a></li>
+<li><a href="/wiki/2021_Wikimedia_Foundation_actions_on_the_Chinese_Wikipedia" title="2021 Wikimedia Foundation actions on the Chinese Wikipedia">2021 WMF actions on the Chinese Wikipedia</a></li>
+<li><a href="/wiki/Wikipedia_and_the_2022_Russian_invasion_of_Ukraine" title="Wikipedia and the 2022 Russian invasion of Ukraine">Coverage of the 2022 Russian invasion of Ukraine</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Honors</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Quadriga_(award)" title="Quadriga (award)">2008 Quadriga award</a></li>
+<li><i><a href="/wiki/Wikipedia_Monument" title="Wikipedia Monument">Wikipedia Monument</a></i></li>
+<li><a href="/wiki/Erasmus_Prize" title="Erasmus Prize">2015 Erasmus Prize</a></li>
+<li><a href="/wiki/Princess_of_Asturias_Awards" title="Princess of Asturias Awards">2015 Princess of Asturias Award</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">References<br />and analysis</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Wikipedia_in_culture" title="Wikipedia in culture">Cultural</a></li>
+<li><a href="/wiki/Bibliography_of_Wikipedia" title="Bibliography of Wikipedia">Bibliography</a></li>
+<li><a href="/wiki/List_of_films_about_Wikipedia" title="List of films about Wikipedia">Films</a></li>
+<li><a href="/wiki/Academic_studies_about_Wikipedia" title="Academic studies about Wikipedia">Academic studies</a></li>
+<li><a href="/wiki/Listen_to_Wikipedia" title="Listen to Wikipedia">Listen to Wikipedia</a></li>
+<li><a href="/wiki/Wiki-Watch" title="Wiki-Watch">Wiki-Watch</a></li>
+<li><a href="/wiki/Wikipediocracy" title="Wikipediocracy">Wikipediocracy</a></li>
+<li><a href="/wiki/WikiScanner" title="WikiScanner">WikiScanner</a></li>
+<li><a href="/wiki/Wikipedia_Review" title="Wikipedia Review">Wikipedia Review</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mobile access</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">Apps</a></li>
+<li><a href="/wiki/QRpedia" title="QRpedia">QRpedia</a></li>
+<li><a href="/wiki/Wapedia" title="Wapedia">Wapedia</a></li>
+<li><a href="/wiki/WikiNodes" title="WikiNodes">WikiNodes</a></li>
+<li><a href="/wiki/Wikipedia_Zero" title="Wikipedia Zero">Wikipedia Zero</a></li>
+<li><a href="/wiki/Wikiwand" title="Wikiwand">Wikiwand</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Content use</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Books_LLC" title="Books LLC">Books LLC</a></li>
+<li><a href="/wiki/Boundless_(company)" title="Boundless (company)">Boundless (company)</a></li>
+<li><a href="/wiki/DBpedia" title="DBpedia">DBpedia</a></li>
+<li><a href="/wiki/Deletionpedia" title="Deletionpedia">Deletionpedia</a></li>
+<li><a href="/wiki/Kiwix" title="Kiwix">Kiwix</a></li>
+<li><a href="/wiki/Wikimedia_Enterprise" title="Wikimedia Enterprise">Wikimedia Enterprise</a></li>
+<li><a href="/wiki/WikiReader" title="WikiReader">WikiReader</a></li>
+<li><a href="/wiki/Science_information_on_Wikipedia" title="Science information on Wikipedia">Science information</a></li>
+<li><a href="/wiki/Health_information_on_Wikipedia" title="Health information on Wikipedia">Health information</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Similar projects</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Interpedia" title="Interpedia">Interpedia</a></li>
+<li><a href="/wiki/Nupedia" title="Nupedia">Nupedia</a></li>
+<li><a href="/wiki/Citizendium" title="Citizendium">Citizendium</a></li>
+<li><span title="Spanish-language text"><span lang="es" style="font-style: normal;"><a href="/wiki/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol" title="Enciclopedia Libre Universal en Español">Enciclopedia Libre Universal en Español</a></span></span></li>
+<li><a href="/wiki/Everipedia" title="Everipedia">Everipedia</a></li>
+<li><a href="/wiki/Veropedia" title="Veropedia">Veropedia</a></li>
+<li><a href="/wiki/List_of_online_encyclopedias" title="List of online encyclopedias">List of online encyclopedias</a></li>
+<li><a href="/wiki/List_of_wikis" title="List of wikis">List of wikis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Iraq_War:_A_Historiography_of_Wikipedia_Changelogs" title="The Iraq War: A Historiography of Wikipedia Changelogs">The Iraq War: A Historiography of Wikipedia Changelogs</a></i></li>
+<li><a href="/wiki/Print_Wikipedia" title="Print Wikipedia">Print Wikipedia</a></li>
+<li><i><a href="/wiki/Magna_Carta_(An_Embroidery)" title="Magna Carta (An Embroidery)">Magna Carta (An Embroidery)</a></i></li>
+<li><a href="/wiki/Wiki_rabbit_hole" title="Wiki rabbit hole">Wiki rabbit hole</a></li>
+<li><a href="/wiki/Wikiracing" title="Wikiracing">Wikiracing</a></li>
+<li><a href="/wiki/274301_Wikipedia" title="274301 Wikipedia">274301 Wikipedia</a></li>
+<li><a href="/wiki/Wikipedia_for_World_Heritage" title="Wikipedia for World Heritage">Wikipedia for World Heritage</a></li>
+<li><a href="/wiki/Wikimedia_Foundation" title="Wikimedia Foundation">Wikimedia Foundation</a>
+<ul><li><a href="/wiki/Wikimedia_movement" title="Wikimedia movement">movement</a></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" title="List-Class article" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/List_of_Wikipedias" title="List of Wikipedias">List</a></b></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Category:Wikipedia" title="Category:Wikipedia">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<style data-mw-deduplicate="TemplateStyles:r1093522707">.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;justify-content:center;align-items:baseline}.mw-parser-output .portal-bar-bordered{padding:0 2em;background-color:#fdfdfd;border:1px solid #a2a9b1;clear:both;margin:1em auto 0}.mw-parser-output .portal-bar-related{font-size:100%;justify-content:flex-start}.mw-parser-output .portal-bar-unbordered{padding:0 1.7em;margin-left:0}.mw-parser-output .portal-bar-header{margin:0 1em 0 0.5em;flex:0 0 auto;min-height:24px}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;flex:0 1 auto;padding:0.15em 0;column-gap:1em;align-items:baseline}.mw-parser-output .portal-bar-content-related{}.mw-parser-output .portal-bar-item{display:inline-block;margin:0.15em 0.2em;min-height:24px;line-height:24px}@media screen and (max-width:768px){.mw-parser-output .portal-bar{font-size:88%;font-weight:bold;display:flex;flex-flow:column wrap;align-items:baseline}.mw-parser-output .portal-bar-header{text-align:center;flex:0;padding-left:0.5em;margin:0 auto}.mw-parser-output .portal-bar-related{font-size:100%;align-items:flex-start}.mw-parser-output .portal-bar-content{display:flex;flex-flow:row wrap;align-items:center;flex:0;column-gap:1em;border-top:1px solid #a2a9b1;margin:0 auto}.mw-parser-output .portal-bar-content-related{border-top:none;margin:0}}.mw-parser-output .navbox+link+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .navbox+style+.portal-bar-bordered{margin-top:-1px}.mw-parser-output .portal-bar+.navbox-styles+.navbox{margin-top:-1px}</style><div class="portal-bar noprint metadata noviewer portal-bar-bordered" role="navigation" aria-label="Portals"><span class="portal-bar-header"><a href="/wiki/Wikipedia:Contents/Portals" title="Wikipedia:Contents/Portals">Portal</a>:</span><div class="portal-bar-content"><span class="portal-bar-item"><a href="/wiki/File:Crystal_Clear_app_linneighborhood.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/19px-Crystal_Clear_app_linneighborhood.svg.png" decoding="async" width="19" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/29px-Crystal_Clear_app_linneighborhood.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/38px-Crystal_Clear_app_linneighborhood.svg.png 2x" data-file-width="407" data-file-height="407" /></a>&#160;<a href="/wiki/Portal:Internet" title="Portal:Internet">Internet</a></span></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1393
+Cached time: 20220709134910
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.599 seconds
+Real time usage: 0.751 seconds
+Preprocessor visited node count: 1692/1000000
+Post‐expand include size: 61663/2097152 bytes
+Template argument size: 1685/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 48077/5000000 bytes
+Lua time usage: 0.384/10.000 seconds
+Lua memory usage: 16231600/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  645.840      1 -total
+ 30.52%  197.140      1 Template:Wikipedia
+ 30.20%  195.068      1 Template:Navbox
+ 26.27%  169.675      1 Template:Reflist
+ 21.40%  138.190     13 Template:Cite_web
+ 16.56%  106.953      1 Template:Lang
+ 11.62%   75.015      1 Template:Infobox_software
+ 10.37%   66.949      1 Template:Infobox
+  9.10%   58.790      1 Template:Short_description
+  7.95%   51.344      1 Template:Pp-vandalism
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:32125167-0!canonical and timestamp 20220709134909 and revision id 1086532115.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_Wikipedia_mobile_applications&amp;oldid=1086532115">https://en.wikipedia.org/w/index.php?title=List_of_Wikipedia_mobile_applications&amp;oldid=1086532115</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Free_and_open-source_Android_software" title="Category:Free and open-source Android software">Free and open-source Android software</a></li><li><a href="/wiki/Category:IOS_software" title="Category:IOS software">IOS software</a></li><li><a href="/wiki/Category:Lists_about_Wikipedia" title="Category:Lists about Wikipedia">Lists about Wikipedia</a></li><li><a href="/wiki/Category:Mobile_software_distribution_platforms" title="Category:Mobile software distribution platforms">Mobile software distribution platforms</a></li><li><a href="/wiki/Category:Universal_Windows_Platform_apps" title="Category:Universal Windows Platform apps">Universal Windows Platform apps</a></li><li><a href="/wiki/Category:Windows_Phone" title="Category:Windows Phone">Windows Phone</a></li><li><a href="/wiki/Category:Lists_of_mobile_apps" title="Category:Lists of mobile apps">Lists of mobile apps</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_url-status" title="Category:CS1 maint: url-status">CS1 maint: url-status</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_October_2021" title="Category:Use dmy dates from October 2021">Use dmy dates from October 2021</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_pages_semi-protected_against_vandalism" title="Category:Wikipedia pages semi-protected against vandalism">Wikipedia pages semi-protected against vandalism</a></li><li><a href="/wiki/Category:Pages_using_Infobox_software_with_unknown_parameters" title="Category:Pages using Infobox software with unknown parameters">Pages using Infobox software with unknown parameters</a></li><li><a href="/wiki/Category:Articles_containing_Spanish-language_text" title="Category:Articles containing Spanish-language text">Articles containing Spanish-language text</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+Wikipedia+mobile+applications" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+Wikipedia+mobile+applications" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/List_of_Wikipedia_mobile_applications" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:List_of_Wikipedia_mobile_applications" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/List_of_Wikipedia_mobile_applications"><span>Read</span></a></li><li id="ca-viewsource" class="mw-list-item"><a href="/w/index.php?title=List_of_Wikipedia_mobile_applications&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=List_of_Wikipedia_mobile_applications&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/List_of_Wikipedia_mobile_applications" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/List_of_Wikipedia_mobile_applications" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=List_of_Wikipedia_mobile_applications&amp;oldid=1086532115" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=List_of_Wikipedia_mobile_applications&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_Wikipedia_mobile_applications&amp;id=1086532115&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q27050496" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=List_of_Wikipedia_mobile_applications&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=List_of_Wikipedia_mobile_applications&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA_%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7_%D9%84%D9%84%D9%87%D8%A7%D8%AA%D9%81" title="قائمة تطبيقات ويكيبيديا للهاتف – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%AE%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B2_%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B6%E0%A6%A8_%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE" title="উইকিপিডিয়া মোবাইল অ্যাপ্লিকেশন তালিকা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Seznam_mobiln%C3%ADch_aplikac%C3%AD_Wikipedie" title="Seznam mobilních aplikací Wikipedie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C_%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84_%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7" title="فهرست برنامه‌های کاربردی موبایل ویکی‌پدیا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC_%EB%AA%A8%EB%B0%94%EC%9D%BC_%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98_%EB%AA%A9%EB%A1%9D" title="위키백과 모바일 애플리케이션 목록 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Lista_di_applicazioni_mobile_di_Wikipedia" title="Lista di applicazioni mobile di Wikipedia – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Senarai_aplikasi_mudah_alih_Wikipedia" title="Senarai aplikasi mudah alih Wikipedia – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%80%E8%A6%A7" title="ウィキペディアのモバイルアプリケーション一覧 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE_%E0%AE%85%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%87%E0%AE%9A%E0%AE%BF_%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AE%B2%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D" title="விக்கிப்பீடியா அலைபேசி செயலிகளின் பட்டியல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Vikipedi_mobil_uygulamalar%C4%B1n%C4%B1n_listesi" title="Vikipedi mobil uygulamalarının listesi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%8C%DA%88%DB%8C%D8%A7_%DA%A9%DB%92_%D9%85%D9%88%D8%A8%D8%A7%D8%A6%D9%84_%D8%A7%D8%B7%D9%84%D8%A7%D9%82%DB%8C%D9%88%DA%BA_%DA%A9%DB%8C_%D9%81%DB%81%D8%B1%D8%B3%D8%AA" title="ویکیپیڈیا کے موبائل اطلاقیوں کی فہرست – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%A1c_%E1%BB%A9ng_d%E1%BB%A5ng_di_%C4%91%E1%BB%99ng_Wikipedia" title="Danh sách các ứng dụng di động Wikipedia – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q27050496#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 6 May 2022, at 18:40<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_Wikipedia_mobile_applications&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.599","walltime":"0.751","ppvisitednodes":{"value":1692,"limit":1000000},"postexpandincludesize":{"value":61663,"limit":2097152},"templateargumentsize":{"value":1685,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":48077,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  645.840      1 -total"," 30.52%  197.140      1 Template:Wikipedia"," 30.20%  195.068      1 Template:Navbox"," 26.27%  169.675      1 Template:Reflist"," 21.40%  138.190     13 Template:Cite_web"," 16.56%  106.953      1 Template:Lang"," 11.62%   75.015      1 Template:Infobox_software"," 10.37%   66.949      1 Template:Infobox","  9.10%   58.790      1 Template:Short_description","  7.95%   51.344      1 Template:Pp-vandalism"]},"scribunto":{"limitreport-timeusage":{"value":"0.384","limit":"10.000"},"limitreport-memusage":{"value":16231600,"limit":52428800}},"cachereport":{"origin":"mw1393","timestamp":"20220709134910","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of Wikipedia mobile applications","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_Wikipedia_mobile_applications","sameAs":"http:\/\/www.wikidata.org\/entity\/Q27050496","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q27050496","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-06-18T06:34:07Z","dateModified":"2022-05-06T18:40:34Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4d\/Wikipedia_iOS_app.png","headline":"I want ues all languages translate to khmer"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of Wikipedia mobile applications","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_Wikipedia_mobile_applications","sameAs":"http:\/\/www.wikidata.org\/entity\/Q27050496","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q27050496","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-06-18T06:34:07Z","dateModified":"2022-05-06T18:40:34Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4d\/Wikipedia_iOS_app.png","headline":"I want ues all languages translate to khmer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":157,"wgHostname":"mw1405"});});</script>
+</body>
+</html>
